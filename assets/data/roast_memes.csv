@@ -1,0 +1,301 @@
+R001|2|General|sarcastic|Again? Your focus is getting nervous.
+R002|2|General|academic|Your algorithm just encountered a human error.
+R003|3|General|sarcastic|Three distractions? We are studying your phone now.
+R004|3|General|gamer|Mission objective: FOCUS. Status: questionable.
+R005|4|General|sarcastic|At this point, are we studying or touring your phone?
+R006|1|General|sarcastic|We saw that ??
+R007|1|General|academic|Your textbook is waiting.
+R008|1|General|gamer|Side quest detected.
+R009|1|General|motivational|Back to focus. You've got this.
+R010|1|General|sarcastic|That was a quick little detour.
+R011|1|General|academic|Focus.exe is still running.
+R012|1|General|gamer|Main mission resumed.
+R013|1|General|motivational|One distraction doesn't define the session.
+R014|1|General|sarcastic|Your attention just changed tabs.
+R015|1|General|academic|Please return to the syllabus.
+R016|1|General|gamer|Side quest cancelled.
+R017|1|General|motivational|Come back and keep going.
+R018|1|General|sarcastic|Your phone said look and you listened.
+R019|1|General|academic|Focus check: passed... barely.
+R020|1|General|gamer|Player distracted. Refocus required.
+R021|1|General|motivational|Reset your focus and continue.
+R022|1|General|sarcastic|Nice try, distraction.
+R023|1|General|academic|Your study material misses you.
+R024|1|General|gamer|Focus mode activated again. ?
+R025|1|General|motivational|Back to the goal.
+R026|2|General|sarcastic|Again? We just talked about this.
+R027|2|General|academic|Your concentration needs reinforcement.
+R028|2|General|gamer|Another side quest detected.
+R029|2|General|motivational|You slipped again. Get back on track.
+R030|2|General|sarcastic|Your phone is getting suspiciously interesting.
+R031|2|General|academic|Focus has encountered another interruption.
+R032|2|General|gamer|Side quest number two unlocked.
+R033|2|General|motivational|Don't let two distractions become a pattern.
+R034|2|General|sarcastic|Are we studying or exploring the internet?
+R035|2|General|academic|Your attention span needs an update.
+R036|2|General|gamer|Focus quest is getting difficult.
+R037|2|General|motivational|You can still turn this session around.
+R038|2|General|sarcastic|One more detour and we're calling it tourism.
+R039|2|General|academic|The study plan did not include this.
+R040|2|General|gamer|Distraction combo activated.
+R041|2|General|motivational|Refocus. The session is still yours.
+R042|2|General|sarcastic|Your concentration just rage-quit.
+R043|2|General|academic|Attention required: study material.
+R044|2|General|gamer|Your phone is winning this round.
+R045|2|General|motivational|Take control and continue.
+R046|3|General|sarcastic|Three distractions? We're studying your phone now.
+R047|3|General|academic|Focus level has entered critical status.
+R048|3|General|gamer|Three side quests in one session.
+R049|3|General|motivational|Pause. Refocus. Continue.
+R050|3|General|sarcastic|Your textbook has filed a missing-person report.
+R051|3|General|academic|Attention span requires immediate correction.
+R052|3|General|gamer|Focus boss battle approaching.
+R053|3|General|motivational|You can recover from this. Refocus now.
+R054|3|General|sarcastic|Your attention is doing parkour.
+R055|3|General|academic|Concentration has temporarily failed. ?
+R056|3|General|gamer|The main mission is being ignored.
+R057|3|General|motivational|Don't give the distractions the win.
+R058|3|General|sarcastic|Your phone has become the main character.
+R059|3|General|academic|Study session integrity is declining.
+R060|3|General|gamer|Focus HP is getting low.
+R061|3|General|motivational|One focused stretch can change the session.
+R062|3|General|sarcastic|This session has more plot twists than a movie.
+R063|3|General|academic|Focus requires immediate attention.
+R064|3|General|gamer|Respawn at the study desk.
+R065|3|General|motivational|Enough distractions. Let's make progress.
+R066|4|General|sarcastic|At this point, are we studying or touring your phone?
+R067|4|General|academic|Focus status: critically low.
+R068|4|General|gamer|Professional side-quester unlocked.
+R069|4|General|motivational|Reset your focus and start again.
+R070|4|General|sarcastic|Your phone has better attendance than you.
+R071|4|General|academic|The study objective is being compromised.
+R072|4|General|gamer|Mission objective: FOCUS. Status: questionable.
+R073|4|General|motivational|Take a breath and return to your goal.
+R074|4|General|sarcastic|You didn't lose focus. You donated it.
+R075|4|General|academic|Attention resources are critically depleted.
+R076|4|General|gamer|Your distraction streak is legendary.
+R077|4|General|motivational|The session isn't over. Fight for the finish.
+R078|4|General|sarcastic|Even your distractions are distracted.
+R079|4|General|academic|Focus protocol requires a reset.
+R080|4|General|gamer|Main quest abandoned. Return immediately.
+R081|4|General|motivational|Start fresh from this moment.
+R082|4|General|sarcastic|Your attention span submitted its resignation.
+R083|4|General|academic|Study efficiency is approaching zero.
+R084|4|General|gamer|FINAL WARNING: Focus mode required.
+R085|4|General|motivational|Enough. One focused minute at a time.
+R086|1|General|motivational|There we go. Redemption arc begins.
+R087|1|General|sarcastic|Welcome back, legend.
+R088|1|General|motivational|You got distracted, but you came back.
+R089|1|General|gamer|Main mission resumed.
+R090|1|General|sarcastic|Look who decided to study again.
+R091|1|General|motivational|Back on track. Keep going.
+R092|1|General|gamer|Focus has respawned. ?
+R093|1|General|academic|Focus restored successfully. ?
+R094|1|General|motivational|Nice recovery. Finish strong.
+R095|1|General|sarcastic|The comeback nobody saw coming.
+R096|1|General|gamer|Player has returned to the mission.
+R097|1|General|academic|Concentration successfully restored.
+R098|1|General|motivational|Your next focused minute starts now.
+R099|1|General|sarcastic|Okay, we finally found the focus.
+R100|1|General|gamer|Redemption quest activated.
+R101|1|General|motivational|You recovered. Now make it count.
+R102|1|General|academic|Focus session successfully resumed. ?
+R103|1|General|sarcastic|Plot twist: you actually came back.
+R104|1|General|gamer|Comeback XP earned. ?
+R105|1|General|motivational|Back in focus. Let's finish this.
+R106|1|Computer Science|sarcastic|You switched apps faster than you switch between programming languages.
+R107|2|Computer Science|gamer|Side quest detected. Your code can wait, apparently.
+R108|3|Computer Science|sarcastic|Your attention span just threw an exception.
+R109|4|Computer Science|gamer|404: Focus not found.
+R110|2|Computer Science|motivational|Your program needs focus too. Back to debugging.
+R111|1|Mathematics|sarcastic|You calculated the fastest route away from studying.
+R112|2|Mathematics|gamer|Your focus just divided by zero.
+R113|3|Mathematics|sarcastic|Even the calculator is asking where you went.
+R114|4|Mathematics|gamer|Math error: Focus has approached zero.
+R115|2|Mathematics|motivational|Back to the problem. You've got this.
+R116|1|ML|sarcastic|AI is learning, but your focus is still training.
+R117|2|ML|gamer|Model prediction: You will get distracted again.
+R118|3|ML|sarcastic|Your attention model needs more training data.
+R119|4|ML|gamer|Training failed. Focus accuracy: 0%.
+R120|2|ML|motivational|Don't overfit to distractions. Get back to learning.
+R121|1|Science|sarcastic|Science has questions. So does your focus.
+R122|2|Science|gamer|Experiment result: You got distracted again.
+R123|3|Science|sarcastic|The laws of science cannot explain that distraction.
+R124|4|Science|gamer|Critical experiment failure: Focus disappeared.
+R125|2|Science|motivational|Back to the experiment. Keep going.
+R126|1|CA|sarcastic|Your balance sheet is fine. Your focus isn't.
+R127|2|CA|gamer|Your attention just went into the red.
+R128|3|CA|sarcastic|Even the accountant knows you should be studying.
+R129|4|CA|gamer|Financial crisis detected: Focus has crashed.
+R130|2|CA|motivational|Invest your attention back into your studies.
+R131|1|Management|sarcastic|Management tip #1: Manage your distractions.
+R132|2|Management|gamer|Your attention needs a new management team.
+R133|3|Management|sarcastic|Project Focus has officially gone off schedule.
+R134|4|Management|gamer|Management failure detected. Immediate refocus required.
+R135|2|Management|motivational|Take control of the project: YOU.
+R136|1|History|sarcastic|History will remember this distraction.
+R137|2|History|gamer|You just left the main story for a side quest.
+R138|3|History|sarcastic|Your attention has entered a completely different civilization.
+R139|4|History|gamer|Breaking news: Student distracted again.
+R140|2|History|motivational|Back to the chapter. Your story isn't finished yet.
+R141|1|English|sarcastic|Your vocabulary just lost the word 'focus'.
+R142|2|English|gamer|Your attention just changed languages: from study to distraction.
+R143|3|English|sarcastic|Even the dictionary can't define this level of distraction.
+R144|4|English|gamer|Translation: You need to get back to studying.
+R145|2|English|motivational|Back to your lesson. Keep the conversation with your books going.
+R146|1|LAW|sarcastic|Your profession called. It wants you to focus.
+R147|2|LAW|gamer|Case dismissed. You need to return to studying.
+R148|3|LAW|sarcastic|Your career plan just filed a distraction complaint.
+R149|4|LAW|gamer|Emergency alert: Professional focus required.
+R150|2|subject_roast|motivational|Build the skills now. Future you will thank you.
+R151|1|UI/UX|sarcastic|Your design has great spacing. Your study schedule doesn't.
+R152|2|UI/UX|gamer|You just redesigned your study session.
+R153|3|UI/UX|sarcastic|That distraction deserves zero stars for composition.
+R154|4|UI/UX|gamer|Design failure: Focus layer has been hidden.
+R155|2|UI/UX|motivational|Back to the canvas. Create something great.
+R156|1|UI/UX|sarcastic|User experience: distracted.
+R157|2|Web Programming|gamer|Your focus just failed the usability test.
+R158|3|Web Programming|sarcastic|Navigation error: You went somewhere you shouldn't.
+R159|4|Web Programming|gamer|404: User focus journey not found.
+R160|2|Web Programming|motivational|Back to the user journey: Study ? Focus ? Success.
+R161|1|Music|sarcastic|Your study session just changed tracks.
+R162|2|Music|gamer|Distraction playlist: Track 2 already?
+R163|3|Music|sarcastic|Your focus just hit the wrong note.
+R164|4|Music|gamer|Focus has officially left the stage.
+R165|2|Music|motivational|Back on beat. Keep studying.
+R166|1|Aptitude|sarcastic|Aptitude test: Your distraction speed is impressive.
+R167|2|Aptitude|gamer|Your focus just failed the first question.
+R168|3|Aptitude|sarcastic|Question: Why did you switch apps? Answer: We don't know either.
+R169|4|Aptitude|gamer|Aptitude result: Highly skilled at getting distracted.
+R170|2|Aptitude|motivational|Use that brainpower on the problem instead.
+R171|1|Reasoning|sarcastic|Logical reasoning says you should be studying.
+R172|2|Reasoning|gamer|Your decision-making algorithm chose distraction.
+R173|3|Reasoning|sarcastic|Logic error: Study session interrupted.
+R174|4|Reasoning|gamer|Reasoning failed. Focus module disconnected.
+R175|2|Reasoning|motivational|Think logically: the goal is still right here.
+R176|1|General Knowledge|sarcastic|General Knowledge update: You are distracted.
+R177|2|General Knowledge|gamer|Breaking news: Student switched apps again.
+R178|3|General Knowledge|sarcastic|You know many things. Apparently focus isn't one of them.
+R179|4|General Knowledge|gamer|Alert: General focus knowledge unavailable.
+R180|2|General Knowledge|motivational|Here's something worth knowing: focus gets results.
+R181|1|Communication|sarcastic|Communication Skills tip: tell your phone you'll be back later.
+R182|2|Communication|gamer|Your attention just ended the conversation.
+R183|3|Communication|sarcastic|Communication breakdown: Focus can't reach you.
+R184|4|Communication|gamer|Attention signal lost. Please reconnect to studying.
+R185|2|Communication|motivational|Communicate clearly with yourself: It's study time.
+R186|1|General|sarcastic|We saw that
+R187|2|General|gamer|Side quest detected
+R188|3|DSA|academic|Error 404: Focus not found
+R189|4|General|meme|Are we studying or touring your phone?
+R190|1|General|funny|Bro already got distracted?
+R191|2|General|sarcastic|Your focus just left the chat.
+R192|3|General|meme|The timer is working harder than you.
+R193|4|General|savage|Your phone knows you better than your syllabus does.
+R194|5|General|academic|Your syllabus has filed a missing-person report.
+R195|5|General|gamer|Achievement unlocked: Professional Procrastinator
+R196|5|General|meme|At this point, studying is your side quest.
+R197|5|General|savage|Bro, even your future self is disappointed.
+R198|5|General|sarcastic|If distraction was a subject, you'd be the topper.
+R199|5|General|meme|Your attention span needs a software update.
+R200|5|General|gamer|Main quest abandoned. Again.
+R201|5|General|savage|Your degree is starting to look like a group project.
+R202|5|General|meme|Bro has discovered every distraction except studying.
+R203|5|General|sarcastic|At this rate, your graduation needs a sequel.
+R204|5|General|savage|Your syllabus has officially given up on you.
+R205|1|Python|academic|SyntaxError: Focus expected.
+R206|2|DBMS|academic|Database connected. Student disconnected.
+R207|3|OS|academic|Process terminated: Study session.
+R208|4|Maths|academic|Your calculator can't calculate your procrastination.
+R209|5|General|academic|Your textbook is collecting dust while your phone collects screen time.
+R210|5|General|gamer|Boss fight: Your own attention span.
+R211|1|Python|sarcastic|SyntaxError: Focus expected.
+R212|2|Python|meme|Your focus is throwing an exception.
+R213|3|Python|gamer|Infinite loop detected: You + distractions.
+R214|4|Python|savage|Even Python can't debug your procrastination.
+R215|1|DSA|sarcastic|Error 404: Focus not found.
+R216|2|DSA|gamer|Side quest detected. Main quest: DSA.
+R217|3|DSA|academic|Your attention span has O(n²) complexity.
+R218|4|DSA|savage|You're searching everywhere except the answer.
+R219|1|DBMS|sarcastic|Database connected. Student disconnected.
+R220|2|DBMS|meme|Transaction failed: Focus not committed.
+R221|3|DBMS|academic|Your focus is stuck in deadlock.
+R222|4|DBMS|savage|Even your database has better consistency than you.
+R223|1|OS|sarcastic|Process started. Focus terminated.
+R224|2|OS|gamer|Context switch again? Seriously?
+R225|3|OS|academic|Your brain is experiencing excessive context switching.
+R226|4|OS|savage|Your brain has officially entered a deadlock.
+R227|1|Maths|sarcastic|Distraction detected. Where's your proof?
+R228|2|Maths|meme|Your focus is approaching zero.
+R229|3|Maths|academic|Limit of your focus = 0.
+R230|4|Maths|savage|Even infinity isn't enough time for your procrastination.
+R231|1|Data Science|sarcastic|Data detected. Focus missing.
+R232|2|Data Science|meme|Your focus needs some serious preprocessing.
+R233|3|Data Science|academic|Signal detected. Unfortunately, it's distraction.
+R234|4|Data Science|savage|You analyzed everything except why you're not studying.
+R235|1|Machine Learning|sarcastic|Model running. Student wandering.
+R236|2|Machine Learning|gamer|Distraction detected. Retraining required.
+R237|3|Machine Learning|academic|Your brain is overfitting to distractions.
+R238|4|Machine Learning|savage|Even your model has better learning discipline than you.
+R239|1|Deep Learning|sarcastic|Going deep into your distractions?
+R240|2|Deep Learning|meme|Neural network activated. Focus not found.
+R241|3|Deep Learning|academic|Your attention weights are on the wrong features.
+R242|4|Deep Learning|savage|You're deep learning everything except the syllabus.
+R243|1|Data Analytics|sarcastic|Dashboard says: You're distracted.
+R244|2|Data Analytics|meme|Trend detected: More scrolling, less studying.
+R245|3|Data Analytics|academic|The data clearly says: GET BACK TO WORK.
+R246|4|Data Analytics|savage|Your screen-time analytics are becoming embarrassing.
+R247|1|Statistics|sarcastic|Statistically speaking, you're distracted.
+R248|2|Statistics|meme|Probability of studying: decreasing.
+R249|3|Statistics|academic|Your focus has a statistically significant problem.
+R250|4|Statistics|savage|The data has spoken. You're procrastinating.
+R251|1|NLP|sarcastic|Natural Language Processing. Unnatural procrastination.
+R252|2|NLP|meme|Sentiment analysis: Your textbook is disappointed.
+R253|3|NLP|academic|Tokenization complete. Focus tokens missing.
+R254|4|NLP|savage|You processed every message except your study material.
+R255|1|Computer Vision|sarcastic|Camera detected you. Focus not detected.
+R256|2|Computer Vision|meme|Object detected: Distraction.
+R257|3|Computer Vision|academic|Face detected. Focus recognition failed.
+R258|4|Computer Vision|savage|Your eyes can detect everything except the textbook.
+R259|5|Data Science|savage|You found patterns in the data but can't find your focus.
+R260|5|Machine Learning|gamer|Training stopped. Distraction accuracy: 100%.
+R261|5|Deep Learning|meme|Your neural network is deep, but your focus is shallow.
+R262|5|Data Analytics|savage|Your biggest outlier is your study time.
+R263|5|Statistics|sarcastic|Confidence interval for studying: basically zero.
+R264|5|NLP|meme|Your brain understood every notification except "GO STUDY."
+R265|5|Computer Vision|savage|Computer vision can see the problem. Apparently you can't.
+R266|1|Competitive Exams|sarcastic|Exam prep detected. Focus not detected.
+R267|2|Competitive Exams|meme|One distraction closer to watching the cutoff instead of clearing it.
+R268|3|Competitive Exams|gamer|Side quest again? Your exam is the main quest.
+R269|4|Competitive Exams|sarcastic|The competition is studying while you're scrolling.
+R270|5|Competitive Exams|savage|Your competitors just finished another mock test.
+R271|5|Competitive Exams|meme|At this rate, the cutoff is going to pass you.
+R272|5|Competitive Exams|savage|Your rank is currently competing with your screen time.
+R273|5|Competitive Exams|meme|Everyone wants the seat. You're giving them a head start.
+R274|5|Competitive Exams|savage|Future you just opened your result and sighed.
+R275|5|Competitive Exams|nuclear|Bro, even the cutoff has stopped waiting for you.
+R276|1|GATE|sarcastic|GATE prep without focus? Interesting strategy.
+R277|2|GATE|meme|Your rank isn't going to improve by itself.
+R278|3|GATE|gamer|Side quest detected. AIR is waiting.
+R279|4|GATE|savage|Someone just solved another PYQ while you scrolled.
+R280|5|GATE|meme|GATE stands for Get Attention To Education.
+R281|5|GATE|savage|Your competitors are solving PYQs. You're solving notifications.
+R282|1|JEE|sarcastic|IIT won't come to you. Go study.
+R283|2|JEE|meme|Physics is hard. Your distractions are harder to resist.
+R284|3|JEE|academic|Your rank needs attention, not another notification.
+R285|4|JEE|savage|Your competition just solved 20 questions.
+R286|1|UPSC|sarcastic|Future officer detected. Focus currently missing.
+R287|2|UPSC|meme|The syllabus is huge. Your distractions shouldn't be.
+R288|3|UPSC|academic|Current affairs are moving. So should you.
+R289|4|UPSC|savage|UPSC doesn't care about your "five-minute break."
+R290|1|Banking|sarcastic|Interest is compounding. Your procrastination too.
+R291|2|Banking|meme|Your competitors just deposited another hour of study.
+R292|3|Banking|academic|Your focus balance is insufficient.
+R293|4|Banking|savage|Transaction failed: Preparation insufficient.
+R294|1|SSC|sarcastic|SSC preparation requires focus. Just saying.
+R295|2|SSC|meme|Your speed is impressive at getting distracted.
+R296|3|SSC|gamer|New achievement: Avoided studying again.
+R297|4|SSC|savage|The cutoff is moving up. You're moving to Instagram.
+R298|1|CAT|sarcastic|CAT wants aptitude. Your phone wants attention.
+R299|2|CAT|meme|Your VARC can read this: GO BACK TO STUDYING.
+R300|3|CAT|academic|Quantifying your procrastination: impressive numbers.
+R301|4|CAT|savage|IIM dreams, Instagram preparation.

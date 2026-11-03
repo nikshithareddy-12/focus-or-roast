@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1089992639110",
+    "project_id": "focus-or-roast",
+    "storage_bucket": "focus-or-roast.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089992639110:android:99a8710d3dc9e7d70a4707",
+        "android_client_info": {
+          "package_name": "com.example.focus_or_roast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUx9cnkEhNckpG6B2jA_JjWKhipryatns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
